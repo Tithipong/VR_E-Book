@@ -3428,6 +3428,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR
       objectReference: {fileID: 0}
+    - target: {fileID: 7359532527891902771, guid: 83e313509121a984290967d6a11ce657,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8499153883317029168, guid: 83e313509121a984290967d6a11ce657,
         type: 3}
       propertyPath: m_Layer
