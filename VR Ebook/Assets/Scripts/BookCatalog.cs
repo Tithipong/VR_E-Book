@@ -14,8 +14,6 @@ public class BookCatalog : MonoBehaviour
 
     void Start()
     {
-
-
         lebleBookScrollView.SetActive(true);
         lebleEnvironmentalScrollView.SetActive(false);
         bookScrollView.SetActive(true);
@@ -45,7 +43,6 @@ public class BookCatalog : MonoBehaviour
 
     public void OnYesReadyButtonClicked()
     {
-        GameObject.Find("XRInteractionManager").SetActive(false);
         SceneManager.LoadScene(2);
     }
     public void OnNoReadyButtonClicked()
