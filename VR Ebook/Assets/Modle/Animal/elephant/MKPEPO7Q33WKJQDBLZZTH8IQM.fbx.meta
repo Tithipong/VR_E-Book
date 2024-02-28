@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 33fcafabae08e7f4f9fb4cd7ea0cd1ee
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_0-Map__92_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: c8096f6545526044d8a530f7e7cf27ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_1-Map__89_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: e2da029a5e4383a44b050a04d3065354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_10-Map__77_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 90aa018d4ac10024b9f9dffbcb90e52f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_11-Map__75_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 2d48e4cbee84ea34ea430d423a6b400c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_12-Map__72_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: c94fc8eb14e333c4fbc47d2f3ed0efaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_13-Map__69_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 4c39fa213159fe349ab8f580b7956237, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_14-Map__66_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: f67ab95c49161e94098f5b243f99f877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_15-Map__63_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 099a03fffab3e734299491657bf9002a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_16-Map__60_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: dea18f5ddbe820c4aa8b633e119af0ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_17-Map__58_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 4dd16f76ea9520248a4df6d671dd0dd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_18-Map__56_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: b2620557aac20ec4bab99737f8ebb19d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_19-Map__54_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 10d093a96892f004cbc1f70393bdea80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_2-Map__86_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 504fa06ffeeda024db2b6953d558096f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_20-Map__52_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 79a233d7f65334345b4b4df5c2a772c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_21-Map__50_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: eb4f3622037a55f478def75e16ddc434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_22-Map__47_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 184f27cf60dbb6b498b3803e954f3ab7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_23-Map__44_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 8461d0e768ca2b745b5188d94382b8a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_24-Map__15_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: bdb9c721c710f8b48a224a15dd0b78d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_25-Map__6_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 63b328d676444754585aaeed0f3f7d50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_26-Map__1_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 4f7ed1698545c8c428a7843b1556c240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_27-Map__41_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: a2382803d73056f4b99d39908d3fdb0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_28-Map__39_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 0d01f726c07b5ed47836d2d4aa031e94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_29-Map__36_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 967e9a12650671645914a5a2c3b5cbbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_3-Map__98_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 7f507e19f367044489424de057778718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_30-Map__34_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 34b793717d3ef5e4f9ef2acf48d0a285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_31-Map__32_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: d6b8acc13a1755f45a338a19b9d6b926, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_32-Map__27_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: aa3f1072d0fa73444a130dc7175d4175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_33-Map__113_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 56a02bd98953d27418667ee3859ba2fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_34-Map__110_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: abe340ee40ecfde4e8a98c9dc34a19a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_35-Map__12_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: c2512162623bdb74bb5b4c2b807c644e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_36-Map__24_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 44c8e18726fcec141a0a63e44ba6ce03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_37-Map__21_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: eefe6dd33be5a0f40a3ddcbaab8166bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_38-Map__18_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: a7bad2379f79245429d57e8e16727271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_39-Map__9_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: bc0f75db7db50de4b831af712526b01b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_4-Map__95_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: f3c83d0acb4db19489ee749d834c8e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_40-Map__79_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 5f1db8e8e1abf6944b812fec2ac96216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_5-Map__104_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 450adca610e566c4db528a84898ac69a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_6-Map__101_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: d10dde74457ea0a4d9fcbed861f966d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_7-Map__83_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 9317f17a8f3e3d54ca5ad13b4a6f8c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_8-Map__107_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: fe5d7a9a20f433644a3c3d6ed386ae75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mat_9-Map__81_RGB_Tint.jpg
+    second: {fileID: 2100000, guid: 0c047f879790e36419e290e2a8cd0c07, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 0
+    second: {fileID: 2800000, guid: 36fbfc7486668b44bbe844a6591d40f3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: ec62e277565cf55409008f444f4685e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 10
+    second: {fileID: 2800000, guid: 6d7e8bb5ff28eb44ea5c41aa1e40ff96, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 11
+    second: {fileID: 2800000, guid: 3936c2b5396430e4ba5d10583ebd45f7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 12
+    second: {fileID: 2800000, guid: f5ff3121111e525409d5b7deb0e007e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 13
+    second: {fileID: 2800000, guid: 6383916b690f0904da7fdb41082b3b0d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 14
+    second: {fileID: 2800000, guid: 766b2f12152297e43ab7de1289c88b95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 15
+    second: {fileID: 2800000, guid: 5b6215c65d805bd409e6e02c1cedb5b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 16
+    second: {fileID: 2800000, guid: 38cca29e6ba9c6947abbc5befbce42ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 17
+    second: {fileID: 2800000, guid: 254fb0d806da3494fad265e3974bca63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 18
+    second: {fileID: 2800000, guid: bffa0b8896a8c844cb137cb7fbbf367c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 19
+    second: {fileID: 2800000, guid: 62d48bc30e68fd44f8686e77bbb72659, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 2
+    second: {fileID: 2800000, guid: c5a4fc214073591469fff26c09437688, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 20
+    second: {fileID: 2800000, guid: 6a9373242fcb0734aa1928e3f2d28aae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 21
+    second: {fileID: 2800000, guid: d9557e6a2e3a0cb49bd7fe4e1404df91, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 22
+    second: {fileID: 2800000, guid: ed87125d94aa42a45828647561177bb1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 23
+    second: {fileID: 2800000, guid: 86b57504936a2f442874d9bca3c4facb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 24
+    second: {fileID: 2800000, guid: caea2d1b54a687d46bab1381e1f71f29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 25
+    second: {fileID: 2800000, guid: 0c7ce9b2b160d7d48879fb107921a83e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 26
+    second: {fileID: 2800000, guid: c5540c3764d1642458126d7053e76433, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 27
+    second: {fileID: 2800000, guid: ab11fbecca8bf3f47be2f7001d6bf74a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 28
+    second: {fileID: 2800000, guid: 77333c053c16fc444937cb9ec7d921b4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 29
+    second: {fileID: 2800000, guid: 1aff354e6f9814d48a32acf1b6c15945, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: 4490b39cdef8d414c9d82a1435f8d4ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 30
+    second: {fileID: 2800000, guid: 96a75be47bdab4d49927f92c24b8606c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 31
+    second: {fileID: 2800000, guid: ae60f41e1c07e47469174978c326e395, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 32
+    second: {fileID: 2800000, guid: eb2d2647c759c5244a3a42371804edcb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 33
+    second: {fileID: 2800000, guid: 13817af365cdeaa4b89e7274c8243120, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 34
+    second: {fileID: 2800000, guid: 254e686afa9e14b4082b3007d02a136b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 35
+    second: {fileID: 2800000, guid: b2df2d4e51cfe7e40a9ef93746ceda95, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 36
+    second: {fileID: 2800000, guid: 7b086b7eb965ffe4c800f0163f3122a0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 37
+    second: {fileID: 2800000, guid: b5079ee3829d03a4f9d355b42247798a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 38
+    second: {fileID: 2800000, guid: 4c9b9824be4f54b41abc1a95e9a67899, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 39
+    second: {fileID: 2800000, guid: 008d5e39280812c4fae1c91705bb27fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 4
+    second: {fileID: 2800000, guid: 971d12b5fd3a6d24893af39f4bb11bcb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 40
+    second: {fileID: 2800000, guid: 56c7585eef34088428b8a9aed5c42abd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5
+    second: {fileID: 2800000, guid: 4303cd9c342a3ba4a8c21eb4bf0cd4a3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 6
+    second: {fileID: 2800000, guid: f132d614d23dcf1449a4116be61d8fb3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 7
+    second: {fileID: 2800000, guid: 9584df48a62544d438c64e9cfe3f3714, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 8
+    second: {fileID: 2800000, guid: 69d6032567f7bba4289b88c28da813b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9
+    second: {fileID: 2800000, guid: 25d26778523e79c428c313c82bfb10ff, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
