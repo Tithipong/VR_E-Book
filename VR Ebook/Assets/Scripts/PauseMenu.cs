@@ -16,12 +16,12 @@ public class PauseMenu : MonoBehaviour
     void Awake()
     {
         pauseAction = actionAsset.FindAction("Pause");
-        pauseAction.performed += PauseButtonPressed; 
+        pauseAction.performed += PauseButtonPressed;
         pauseAction.Enable();
     }
     void OnDestroy()
     {
-        pauseAction.Disable();
+        //pauseAction.Disable();
     }
 
     public void OnPauseButtonPressed()
@@ -38,18 +38,22 @@ public class PauseMenu : MonoBehaviour
     }
     public void DisplayWrisUI()
     {
-        if (GameIsPaused)
+        if (pauseMenuUI != null)
         {
-            pauseMenuUI.SetActive(false);
-            GameIsPaused = false;
-            Time.timeScale = 1f;
+            if (GameIsPaused)
+            {
+                pauseMenuUI.SetActive(false);
+                GameIsPaused = false;
+                Time.timeScale = 1f;
+            }
+            else if (!GameIsPaused)
+            {
+                pauseMenuUI.SetActive(true);
+                GameIsPaused = true;
+                Time.timeScale = 0f;
+            }
         }
-        else if (!GameIsPaused)
-        {
-            pauseMenuUI.SetActive(true);
-            GameIsPaused = true;
-            Time.timeScale = 0f;
-        }
+
     }
     public void RestartButton()
     {
